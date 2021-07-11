@@ -1,0 +1,4 @@
+﻿  Hotel.cpp
+C:\Users\xabie\Desktop\CLASE\UNIVERSIDAD\SEGUNDO\POO\Ejercicios\Tema1\XabierMoure_GestionHotel\Hotel.cpp(82,66): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\xabie\Desktop\CLASE\UNIVERSIDAD\SEGUNDO\POO\Ejercicios\Tema1\XabierMoure_GestionHotel\Hotel.cpp(233,2): warning C4551: la llamada a la función no tiene lista de argumentos
+  XabierMoure_GestionHotel.vcxproj -> C:\Users\xabie\Desktop\CLASE\UNIVERSIDAD\SEGUNDO\POO\Ejercicios\Tema1\XabierMoure_GestionHotel\Debug\XabierMoure_GestionHotel.exe
